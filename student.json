@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Rammurti devi",
+        "age": 78,
+        "course": "12Th",
+        "marks": 98
+    },
+    {
+        "name": "Mr.Parath singh",
+        "age": 99,
+        "course": "BSC",
+        "marks": 78
+    },
+    {
+        "name": "Ranjana Verma",
+        "age": 57,
+        "course": "MSC",
+        "marks": 67
+    },
+    {
+        "name": "Manver Singh",
+        "age": 46,
+        "course": "BA",
+        "marks": 40
+    },
+    {
+        "name": "Ranjeet Singh",
+        "age": 35,
+        "course": "Btech",
+        "marks": 90
+    },
+    {
+        "name": "JASVEER SINGH",
+        "age": 46,
+        "course": "Med",
+        "marks": 59
+    },
+    {
+        "name": "Rekha verma",
+        "age": 29,
+        "course": "BA",
+        "marks": 78
+    },
+    {
+        "name": "Chandra bhan singh",
+        "age": 24,
+        "course": "Btech",
+        "marks": 60
+    }
+]
