@@ -226,7 +226,7 @@ def delete_student():
             if confirm.lower() != "y":
                 print("Delete Cancelled")
                 return
-
+ 
             students.remove(student)
 
             save_data(students)

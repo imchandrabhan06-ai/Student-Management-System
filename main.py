@@ -12,11 +12,11 @@ while True:
     print("4. Update Student")
     print("5. Delete Student")
     print("6. Exit")
-
+ 
     choice = input("Enter Choice: ")
 
     if choice == "1":
-        student.add_student()
+        student.add_student() 
 
     elif choice == "2":
         student.view_students()
